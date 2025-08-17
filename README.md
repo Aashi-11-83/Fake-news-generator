@@ -41,4 +41,4 @@ Web version using Flask/Streamlit.
 
 👩‍💻 Aashi Tomar
 📌 GitHub: Aashi-11-83
-📌 LinkedIn: 
+📌 LinkedIn: https://www.linkedin.com/posts/aashi-tomar-448a51333_python-coding-learning-activity-7362813735549227008-NBBv?utm_source=share&utm_medium=member_android&rcm=ACoAAFP7hjgBkpaK_6zP1988j5hGs9jvyp-KNjI
